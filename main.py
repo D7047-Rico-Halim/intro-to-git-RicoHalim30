@@ -1,3 +1,3 @@
 # Ganti dengan jawabanmu
-print("Nama: <isi namamu>")
+print("Nama: Rico Halim")
 print("Bahasa favorit: <isi bahasamu>")
